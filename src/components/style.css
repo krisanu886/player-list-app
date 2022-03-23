@@ -1,0 +1,19 @@
+*{
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5rem;
+    height: 39rem;
+    overflow-y: scroll;
+    box-shadow: 6px 4px 8px #081c15;
+    padding: 25px;
+}
+.card{
+    background-color: #80d1ad;
+    box-shadow: 6px 4px 8px #081c15;
+}
+input{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
